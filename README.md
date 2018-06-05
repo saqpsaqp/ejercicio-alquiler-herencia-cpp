@@ -5,15 +5,15 @@ Cada vehículo se identifica unívocamente por medio de su matrícula.
 
 La empresa alquila distintos tipos de vehículos, tanto para transporte de personas como de carga. En la actualidad los vehículos alquilados por la empresa son: coches, microbuses, furgonetas de carga y camiones de carga.
 
-El precio de alquiler de cualquier vehículo tiene una componente base que depende de los días de alquiler a razón de Bs. 50 por día. 
+El precio de alquiler de cualquier vehículo tiene una componente base que depende de los días de alquiler a razón de $50 por día. 
 
-En el caso de alquiler de un coche, al precio base se le suma la cantidad de Bs. 1.5 por día.
+En el caso de alquiler de un coche, al precio base se le suma la cantidad de $1.5 por día.
 
-El precio de alquiler de los microbuses es igual que el de los coches, salvo que se le añade una cantidad de Bs. 2 independientemente de los días de alquiler.
+El precio de alquiler de los microbuses es igual que el de los coches, salvo que se le añade una cantidad de $2 independientemente de los días de alquiler.
 
-el precio de los vehículos de carga es el precio base más Bs. 20 * Peso máximo autorizado en toneladas (furgoneta es un vehículo de carga).
+el precio de los vehículos de carga es el precio base más $20 * Peso máximo autorizado en toneladas (furgoneta es un vehículo de carga).
 
-Además, en el caso de los camiones, es igual al precio de los vehículos de carga, sumándole un fijo de Bs. 40 independientemente de los días de alquiler.
+Además, en el caso de los camiones, es igual al precio de los vehículos de carga, sumándole un fijo de $40 independientemente de los días de alquiler.
 
 La interacción del empleado con la aplicación deberá realizarse a través de una interfaz basada en menú.
 
